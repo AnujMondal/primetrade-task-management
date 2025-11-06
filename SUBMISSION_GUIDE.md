@@ -3,14 +3,17 @@
 ## 📧 Email Submission Details
 
 **To:**
+
 - saami@bajarangs.com
 - nagasai@bajarangs.com
 - chetan@bajarangs.com
 
 **CC:**
+
 - sonika@primetrade.ai
 
 **Subject:**
+
 ```
 Frontend Developer Task
 ```
@@ -20,15 +23,19 @@ Frontend Developer Task
 ## 📦 What to Submit
 
 ### 1. **GitHub Repository Link**
+
 Your complete project code hosted on GitHub
 
 ### 2. **Resume/CV**
+
 Your professional resume in PDF format
 
 ### 3. **Log Files** (if any)
+
 Any development logs or testing documentation
 
 ### 4. **Optional: Live Demo Link**
+
 Deployed application (Vercel, Netlify, etc.)
 
 ---
@@ -49,6 +56,7 @@ npm run build
 
 1. **Go to GitHub:** https://github.com/new
 2. **Create new repository:**
+
    - Name: `primetrade-task-management`
    - Description: "Scalable Task Management Web App with JWT Authentication - Frontend Developer Internship Assignment"
    - Visibility: Public
@@ -90,6 +98,7 @@ Before submitting, update these files with your actual information:
 ### Step 5: Create a Professional README on GitHub
 
 Make sure your GitHub repository README includes:
+
 - ✅ Project title and description
 - ✅ Features list
 - ✅ Tech stack
@@ -102,6 +111,7 @@ Make sure your GitHub repository README includes:
 Deploy your application for extra points:
 
 **Frontend (Vercel):**
+
 ```bash
 # Install Vercel CLI
 npm i -g vercel
@@ -112,6 +122,7 @@ vercel
 ```
 
 **Backend (Railway/Render):**
+
 - Sign up on Railway.app or Render.com
 - Connect GitHub repository
 - Add environment variables
@@ -215,6 +226,7 @@ Before sending the email, verify:
 ## 📞 Support
 
 If you encounter any issues:
+
 1. Check SETUP.md for troubleshooting
 2. Review QUICK_REFERENCE.md for commands
 3. Check GitHub Issues (if applicable)
@@ -224,6 +236,7 @@ If you encounter any issues:
 ## 🎉 Good Luck!
 
 Your assignment is complete and professional. You've demonstrated:
+
 - Strong technical skills (React, Node.js, MongoDB)
 - Security awareness (JWT, bcrypt, validation)
 - Production mindset (error handling, scalability)
