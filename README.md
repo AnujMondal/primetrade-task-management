@@ -2,6 +2,14 @@
 
 A modern, scalable web application with JWT-based authentication and task management capabilities. Built with React.js and Node.js/Express.
 
+## 🎥 Video Demo
+
+**Watch the complete project walkthrough:**
+
+https://github.com/user-attachments/assets/32135de1-68d4-4b55-8092-d876ea8cf030
+
+---
+
 ## 🚀 Features
 
 ### ✅ Frontend (React.js)
