@@ -661,9 +661,9 @@ This project is created for educational purposes.
 
 **Your Name**
 
-- Email: your.email@example.com
-- GitHub: @yourusername
-- LinkedIn: linkedin.com/in/yourprofile
+- Email: anujmondal2504@gmail.com
+- GitHub: AnujMondal
+- LinkedIn: linkedin.com/in/anuj-mondal
 
 ## 🙏 Acknowledgments
 
